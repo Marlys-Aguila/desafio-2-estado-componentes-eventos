@@ -1,0 +1,12 @@
+.max-width {
+  max-width: 400px;
+}
+
+.error {
+  background-color: red;
+  color: white;
+  text-align: center;
+  line-height: 2;
+  font-size: 1.2rem;
+  font-style: italic;
+}
